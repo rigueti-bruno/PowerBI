@@ -1,0 +1,1 @@
+select * from cap16."VW_FUNC"
